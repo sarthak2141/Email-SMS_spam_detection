@@ -1,7 +1,13 @@
 import streamlit as st
 import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+
+@st.cache_resource
+def download_nltk():
+    nltk.download('punkt')
+    nltk.download('punkt_tab')
+    nltk.download('stopwords')
+
+download_nltk()
 import pickle
 import string
 from nltk.corpus import stopwords
