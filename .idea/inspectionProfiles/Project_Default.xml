@@ -1,0 +1,62 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="appdirs" />
+          <option value="atomicwrites" />
+          <option value="backports.zstd" />
+          <option value="brotli" />
+          <option value="choreographer" />
+          <option value="dacite" />
+          <option value="dash" />
+          <option value="dash-bootstrap-components" />
+          <option value="dash-core-components" />
+          <option value="dash-html-components" />
+          <option value="dash-table" />
+          <option value="dash_daq" />
+          <option value="dtale" />
+          <option value="filetype" />
+          <option value="Flask" />
+          <option value="Flask-Compress" />
+          <option value="future" />
+          <option value="ImageHash" />
+          <option value="kaleido" />
+          <option value="logistro" />
+          <option value="matplotlib" />
+          <option value="minify_html" />
+          <option value="missingno" />
+          <option value="mkl-service" />
+          <option value="multimethod" />
+          <option value="orjson" />
+          <option value="phik" />
+          <option value="puremagic" />
+          <option value="pyls-spyder" />
+          <option value="PyQt5" />
+          <option value="PyQtWebEngine" />
+          <option value="PySide6" />
+          <option value="pytest-timeout" />
+          <option value="retrying" />
+          <option value="scipy" />
+          <option value="setuptools" />
+          <option value="shap" />
+          <option value="shiboken6" />
+          <option value="simplejson" />
+          <option value="slicer" />
+          <option value="squarify" />
+          <option value="strsimpy" />
+          <option value="typeguard" />
+          <option value="typer" />
+          <option value="typer-slim" />
+          <option value="visions" />
+          <option value="Werkzeug" />
+          <option value="wheel" />
+          <option value="wordcloud" />
+          <option value="xlrd" />
+          <option value="ydata-profiling" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
